@@ -46,7 +46,7 @@ naming_system ={
     sub_category: {
       label: "Phylum",{
         sub_category: {
-          label: "Class"{
+          label: "Class",{
             :Genus=>{
               :Species=> {}
             }
