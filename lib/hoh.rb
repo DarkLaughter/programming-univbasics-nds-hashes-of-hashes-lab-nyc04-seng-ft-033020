@@ -46,7 +46,7 @@ naming_system ={
     :Phylun=>{
       :Class=> {
         :Order=>{
-          :Family{
+          :Family=>{
             :Genus=>{
               :Species=> {}
             }
